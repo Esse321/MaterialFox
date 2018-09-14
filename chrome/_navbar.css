@@ -225,11 +225,13 @@
 	margin: 0 !important;
 }
 
+/*
 #page-action-buttons > :-moz-any(#pageActionSeparator, #pageActionButton),
 .urlbar-history-dropmarker
 {
 	display: none !important;
 }
+*/
 
 #pageActionSeparator
 {
