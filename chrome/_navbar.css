@@ -283,6 +283,11 @@
 	display: none !important;
 }
 
+tabs#tabbrowser-tabs
+{
+	--tab-loading-fill: rgb(255,255,255) !important;
+}
+
 /* high DPI adjustments */
 @media (min--moz-device-pixel-ratio: 2)
 {
